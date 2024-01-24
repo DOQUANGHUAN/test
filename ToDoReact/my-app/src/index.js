@@ -1,0 +1,15 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+import App from "./components/App";
+import CategoryTask from "./components/CategoryTask";
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+   
+        <App />
+        
+    
+
+);
+

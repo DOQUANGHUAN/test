@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>microsoftToDo</title>
+    <link href="assets/css/bootstrap.css" rel="stylesheet" />
+    <link href="assets/css/owl.carousel.css" rel="stylesheet" />
+    <link href="assets/css/owl.theme.default.css" rel="stylesheet" />
+    <link href="assets/css/fontawesome.pro.6.0.0.css" rel="stylesheet" />
+    <link href="assets/css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="todo-container">
+        <div class="row">
+            <div class="col-lg-3 col-left">
+                <div class="category-box">
+                    <ul class="category-list">
+                        <li data-catid="1">
+                            <a class="title active" href="#">
+                                <i class="fas fa-bars"></i>
+                                <label>Danh sách bài ôn tập</label>
+                                <input type="text"  value="Danh sách bài tập" />
+                            </a>
+                            <span class="remove">
+                                <i class="fa-solid fa-trash"></i>
+                            </span>
+                        </li>
+                      
+                    </ul>
+                    <div class="category-add">
+                        <a href="#"><i class="fas fa-plus"></i></a>
+                        <label>
+                            <input type="text" placeholder="Mời nhập tên danh sách" />
+                        </label>
+                        <a href="#" class="btn-save-category">
+                            <i class="fas fa-save"></i>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-9 col-right">
+                <div class="add-box">
+                    <i class="fa-regular fa-pen-to-square"></i>
+                    <input class="input-add" type="text" placeholder="Write a new task" />
+                    <a class="button-add" href="#">Add task</a>
+                </div>
+                <fieldset>
+                    <legend>Do task</legend>
+                    <div class="do-task">
+                        <div class="list-box">
+                            <div class="item  ">
+                                <a class="custome-check ">
+                                    <i class="fa-sharp fa-solid fa-check check-icon"></i>
+                                    <i class="uncheck-icon"></i>
+                                    <input type="checkbox" />
+                                </a>
+                                <label class="title">Demo 1</label>
+                                <input type="text" value="Demo1"/>
+                                <a class="remove" href="#">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
+                            </div>
+                            <div class="item ">
+                                <a class="custome-check ">
+                                    <i class="fa-sharp fa-solid fa-check check-icon"></i>
+                                    <i class="uncheck-icon"></i>
+                                    <input type="checkbox" />
+                                </a>
+                                <label class="title">Demo 2</label>
+                                <a class="remove" href="#">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
+                            </div>
+                            <div class="item ">
+                                <a class="custome-check ">
+                                    <i class="fa-sharp fa-solid fa-check check-icon"></i>
+                                    <i class="uncheck-icon"></i>
+                                    <input type="checkbox" />
+                                </a>
+                                <label class="title">Demo 3</label>
+                                <a class="remove" href="#">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </fieldset>
+                <fieldset>
+                    <legend>
+                        Done Task
+                    </legend>
+                    <div class="done-task">
+                        <div class="list-box">
+                            <div class="item  active">
+                                <a class="custome-check ">
+                                    <i class="fa-sharp fa-solid fa-check check-icon"></i>
+                                    <i class="uncheck-icon"></i>
+                                    <input type="checkbox" />
+                                </a>
+                                <label class="title">Demo 4</label>
+                                <a class="remove" href="#">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </fieldset>
+            </div>
+        </div>
+
+    </div>
+    <section>
+        <script src="assets/js/bootstrap.bundle.js"></script>
+        <script src="assets/js/jquery.js"></script>
+        <script src="assets/js/owl.carousel.js"></script>
+        <script src="assets/js/script.js"></script>
+    </section>
+</body>
+</html>

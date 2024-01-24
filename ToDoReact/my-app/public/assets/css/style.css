@@ -1,0 +1,314 @@
+﻿body {
+    background-color: #b29e9e;
+    padding: 1rem;
+}
+
+.todo-container {
+    background-color: #fff;
+    width: 100%;
+    min-height: calc(100vh - 2rem);
+    border-radius: 7px;
+    margin: 1rem auto;
+}
+
+    .todo-container .col-left {
+    }
+
+        .todo-container .col-left .category-box {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            min-height: calc(100vh - 2rem);
+            background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+            padding: .5rem;
+            border-radius: .5rem 0 0 .5rem;
+        }
+
+            .todo-container .col-left .category-box .category-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+                .todo-container .col-left .category-box .category-list li {
+                    padding: .5rem 0;
+                    display: flex;
+                    justify-content: space-between;
+                }
+
+
+                    .todo-container .col-left .category-box .category-list li a {
+                        text-decoration: none;
+                        display: flex;
+                        flex: 1 1 auto;
+                        align-items: center;
+                        justify-content: space-between;
+                        cursor: pointer;
+                    }
+
+
+                      
+
+                        .todo-container .col-left .category-box .category-list li a i {
+                            width: 30px;
+                            font-size: 20px;
+                        }
+
+                        .todo-container .col-left .category-box .category-list li a.active i {
+                            color: #ff0000;
+                        }
+                        .todo-container .col-left .category-box .category-list li a.active i:before {
+                            content:"\f0a4";
+                        }
+                        .todo-container .col-left .category-box .category-list li a.editable label {
+                            display: none;
+                        }
+
+                        .todo-container .col-left .category-box .category-list li a label {
+                            display: flex;
+                            flex: 1 1 auto;
+                            padding-right: 1rem;
+                            cursor: pointer;
+                        }
+
+                        .todo-container .col-left .category-box .category-list li a.editable input {
+                            display: flex;
+                            flex: 1 1 auto;
+                            margin-right: .5rem;
+                            cursor: pointer;
+                        }
+
+                        .todo-container .col-left .category-box .category-list li a input {
+                            display: none;
+                        }
+
+                    .todo-container .col-left .category-box .category-list li span {
+                        width: 25px;
+                        height: 25px;
+                        font-size: 15px;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        border: 1px solid #fff;
+                        border-radius: 50%;
+                        background-color: #bfbfbf50;
+                        color: #000;
+                        font-weight: 600;
+                        cursor: pointer;
+                    }
+
+                        .todo-container .col-left .category-box .category-list li span i {
+                            color: #ff0000;
+                            width: auto;
+                            font-size: 15px;
+                        }
+
+    .todo-container .category-box .category-add {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border: 1px solid #00a1ff;
+        border-radius: .25rem;
+        padding: .25rem;
+    }
+
+        .todo-container .category-box .category-add:focus-within {
+            background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+        }
+
+        .todo-container .category-box .category-add a {
+            text-decoration: none;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+            .todo-container .category-box .category-add a i {
+                height: 30px;
+                width: 30px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+        .todo-container .category-box .category-add label {
+            height: 30px;
+            width: 30px;
+            flex: 1 1 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+            .todo-container .category-box .category-add label input {
+                width: 100%;
+                background-color: transparent;
+                font-size: 14px;
+                padding: .5rem;
+                border: none;
+                outline: none; /*nháy chuột ko hiện khung*/
+            }
+
+                .todo-container .category-box .category-add label input::placeholder {
+                    color: #00000050;
+                }
+    /*#region col-right */
+
+    .todo-container .col-right {
+        border-radius: 0 7px 7px 0;
+        min-height: calc(100vh - 4rem);
+    }
+
+    .todo-container .add-box {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1rem;
+        margin-top: 8px;
+        padding-right: .5rem;
+    }
+
+        .todo-container .add-box i {
+            font-size: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 25px;
+            height: 25px;
+            border-radius: .25rem;
+            color: #8ec5fc;
+        }
+
+        .todo-container .add-box input {
+            border-radius: .5rem;
+            border: none;
+            flex: 1;
+            color: #e0c8c8;
+            padding: 0 .5rem;
+            outline: none; /* khung khi click*/
+        }
+
+            .todo-container .add-box input::placeholder {
+                color: #e0c8c8;
+            }
+
+        .todo-container .add-box a {
+            text-decoration: none;
+            background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+            color: #fff;
+            padding: .25rem .5rem;
+            border-radius: .5rem;
+        }
+
+    .todo-container .list-box {
+        margin-top: 1rem;
+    }
+
+        .todo-container .list-box .item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: .5rem 0;
+            border-top: 1px solid #e0c8c8;
+            border-radius: 7px;
+            background-color: #e0c8c8;
+            margin-bottom: .5rem;
+        }
+
+            .todo-container .list-box .item .custome-check {
+                margin: 0 .5rem;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+                .todo-container .list-box .item .custome-check input {
+                    display: none;
+                }
+
+                .todo-container .list-box .item .custome-check i {
+                    width: 25px;
+                    height: 25px;
+                    line-height: 25px;
+                    color: #00a1ff;
+                    border: 2px solid #ffffff;
+                    border-radius: 50%;
+                    align-items: center;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                    .todo-container .list-box .item .custome-check i:before {
+                        font-size: 12px;
+                    }
+
+                    .todo-container .list-box .item .custome-check i.uncheck-icon {
+                        display: block;
+                    }
+
+                    .todo-container .list-box .item .custome-check i.check-icon {
+                        display: none;
+                    }
+
+            .todo-container .list-box .item.active .custome-check i.uncheck-icon {
+                display: none;
+            }
+
+            .todo-container .list-box .item.active .custome-check i.check-icon {
+                display: flex;
+            }
+
+            .todo-container .list-box .item .title {
+                border-radius: 7px;
+                flex: 1;
+            }
+
+            .todo-container .list-box .item.active .title {
+                font-style: italic;
+                text-decoration: line-through;
+            }
+            .todo-container .list-box .item.editable .title {
+               display:none;
+            }
+            .todo-container .list-box .item > input {
+                width:100%;
+                display:none;
+            }
+            .todo-container .list-box .item.editable > input {
+                width: 100%;
+                display:block;
+            }
+            .todo-container .list-box .item .remove {
+                width: 30px;
+                height: 30px;
+                border: 1px solid #000;
+                border-radius: 50%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-decoration: none;
+                margin-right: .5rem;
+                background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+                cursor: pointer; /*hình con trỏ*/
+            }
+
+            .todo-container .list-box .item .remove {
+                color: #2bff42;
+            }
+
+    .todo-container fieldset {
+        padding-right: .5rem;
+    }
+
+        .todo-container fieldset legend {
+            background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+            border-radius: 7px;
+            padding: .5rem;
+            margin-bottom: .5rem;
+            color: #000;
+        }
+
+        .todo-container fieldset .done-task {
+        }
+
+/*#endregion */

@@ -1,0 +1,76 @@
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\appsettings.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\ToDoAPI.exe
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\ToDoAPI.deps.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\ToDoAPI.runtimeconfig.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\ToDoAPI.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\ToDoAPI.pdb
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.csproj.AssemblyReference.cache
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.AssemblyInfoInputs.cache
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.AssemblyInfo.cs
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.csproj.CoreCompileInputs.cache
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\scopedcss\bundle\ToDoAPI.styles.css
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.csproj.CopyComplete
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\refint\ToDoAPI.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.pdb
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ToDoAPI.genruntimeconfig.cache
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\ref\ToDoAPI.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\staticwebassets\msbuild.ToDoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoAPI.props
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoAPI.props
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoAPI.props
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo\ToDoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\appsettings.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\ToDoAPI.exe
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\ToDoAPI.deps.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\ToDoAPI.runtimeconfig.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\ToDoAPI.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\ToDoAPI.pdb
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.csproj.AssemblyReference.cache
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.AssemblyInfoInputs.cache
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.AssemblyInfo.cs
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.csproj.CoreCompileInputs.cache
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\staticwebassets\msbuild.ToDoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoAPI.props
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoAPI.props
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoAPI.props
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\scopedcss\bundle\ToDoAPI.styles.css
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.csproj.CopyComplete
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\refint\ToDoAPI.dll
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.pdb
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ToDoAPI.genruntimeconfig.cache
+E:\ThietkeWeb\BT-VDBT\BT\JQUERY\MicrosoftToDo - Copy\ToDoAPI\obj\Debug\net6.0\ref\ToDoAPI.dll

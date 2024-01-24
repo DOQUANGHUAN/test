@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap@5.2.3",
+      "destination": "assets/bootstrap/",
+      "files": [
+        "js/bootstrap.bundle.js",
+        "css/bootstrap.css"
+      ]
+    },
+    {
+      "library": "jquery@3.6.4",
+      "destination": "assets/js",
+      "files": [
+        "jquery.js"
+      ]
+    },
+    {
+      "library": "OwlCarousel2@2.3.4",
+      "destination": "assets/",
+      "files": [
+        "assets/ajax-loader.gif",
+        "owl.carousel.js",
+        "assets/owl.carousel.css",
+        "assets/owl.carousel.min.css",
+        "assets/owl.theme.default.css",
+        "assets/owl.theme.default.min.css",
+        "assets/owl.theme.green.css",
+        "assets/owl.theme.green.min.css",
+        "assets/owl.video.play.png"
+      ]
+    }
+  ]
+}

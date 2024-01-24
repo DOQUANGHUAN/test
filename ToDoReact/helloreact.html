@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Hello React</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js" crossorigin></script>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="text/babel">
+         const demoElement = <h1>Hello React. It's Me!</h1>;
+         console.log(demoElement);
+        ReactDOM.createRoot(document.getElementById("root")).render(demoElement);
+    </script>
+</body>
+</html>
